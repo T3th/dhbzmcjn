@@ -4,7 +4,7 @@
 | E-mail | me@domain.tld |
 
 # Peter Smeltzer
-Generalist IT engineer who has never been satisfied with delivering only what was requested. I want to work with professionals to achieve a great result which fully solves the problem every time.
+Generalist IT engineer who has never been satisfied with delivering only what was requested. I want to work with professionals to achieve a great result which fully solves the problem every time. I also have a more than passing interest in all things mechanical, particularly motorcycles, computer games, smart homes and technology in general.
 
 ### Key Skills
 - Application deployment and lifecycle management
