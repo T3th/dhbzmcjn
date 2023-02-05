@@ -4,14 +4,14 @@
 | E-mail | me@domain.tld |
 
 # Peter Smeltzer
-Excellent IT engineer
+Generalist IT engineer who has never been satisfied with delivering only what was requested. I want to work with professionals to achieve a great result which fully solves the problem every time.
 
 ### Key Skills
 - Application deployment and lifecycle management
 - Device and operating system lifecycle and configuration management at scale of Linux, MacOS and Windows.
-- Incident Management
-- Troubleshooting
-- Stakeholder engagement.
+- Incident Management from the definition of process to be used through the response to postmortem of individual incidents.
+- Project Management focused on release of value. Setting success criteria, identifying risks & responsibilities, defining a communication plan and delivering on it.  
+- Patient troubleshooting from simple issues experienced by end users to complex failures in or between platforms and services. 
 - Vendor agnostic architecture design, implementation and management of platforms including including:
 	- Compute - Traditional, Virtualized, Hyper-converged
 	- Other people's servers ( Cloud )
