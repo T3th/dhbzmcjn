@@ -3,16 +3,17 @@
 | Phone: | 000000000 |
 | E-mail | me@domain.tld |
 
-# Peter Smeltzer
-Generalist IT engineer who has never been satisfied with delivering only what was requested. I want to work with professionals to achieve a great result which fully solves the problem every time. I also have a more than passing interest in all things mechanical, particularly motorcycles, computer games, smart homes and technology in general.
+# name
+Security focused IT engineer who has never been satisfied with delivering only what was requested. I want to work with professionals to achieve a great result, which fully solves the problem every time. I also have a keen interest in all things technological and mechanical, particularly motorcycles, computer games and smart homes.
 
 ### Key Skills
 - Application deployment and lifecycle management
 - Device and operating system lifecycle and configuration management at scale of Linux, MacOS and Windows.
-- Incident Management from the definition of process to be used through the response to postmortem of individual incidents.
-- Project Management focused on release of value. Setting success criteria, identifying risks & responsibilities, defining a communication plan and delivering on it.  
+- Incident Management from the definition of processes and playbooks to be used to postmortem of individual incidents.
+- Project Management focused on release of value. Setting success criteria, identifying risks & responsibilities, defining a communication plan and delivering on it. 
 - Patient troubleshooting from simple issues experienced by end users to complex failures in or between platforms and services. 
 - Vendor agnostic architecture design, implementation and management of platforms including including:
+	- Authentication & Identity management
 	- Compute - Traditional, Virtualized, Hyper-converged
 	- Other people's servers ( Cloud )
 	- DLP
@@ -22,21 +23,17 @@ Generalist IT engineer who has never been satisfied with delivering only what wa
 	- PAM
 	- VDI
 
-Vendor specific expertise in these areas with: Apple, Ansible, AWS, Azure, Cisco, Dell, Docker, ELK, Grafana, HPE, IBM, Influx DB, Intune, JAMF, Juniper, Palo Alto, Prometheus, Proxmox, PRTG, Microsoft, Netapp, NXLog, Pfsense, Pulse Secure, Pure Storage, Quest, Rapid 7, SCCM, SCOM, Squared Up, Strong DM, VMware, Wireguard, Wireshark.
+Vendor specific expertise in these areas with: Apple, Ansible, Arista, AWS, Azure, Cisco, Dell, Docker, ELK, Grafana, HPE, IBM, Influx DB, Intune, JAMF, Juniper, Palo Alto, Prometheus, Proxmox, PRTG, Microsoft, Netapp, NXLog, Pfsense, Pulse Secure, Pure Storage, Quest, Rapid 7, SCCM, SCOM, Squared Up, Strong DM, VMware, Wireguard, Wireshark.
 
 # Employment History
 
 ### Windows Systems Administrator -> Senior IT Engineer | Jagex 2014 -current
 
-In 2004 a friend I had ironically met through online games brought an opportunity to me. It was a Systems Administrator role. After investigating the games they made and hearing about their plans and day to day challenges from that friend it seemed like an obvious next step.
+A friend I met through Eve Online introduced me to Jagex. Through him I already knew about their technical and organisational debt from an attempt to operate games development on an "air gapped" network which of course just made the opportunity to work in a larger team of highly skilled people with resources I could only dream of in public education more appealing.
 
-It was immediately different because I was part of a team rather than an individual engineer responsible and accountable for everything.
+The first major project I led was the replacement of a Linux based file server with a larger, more resilient Windows based solution. As well as more space it offered better client compatibility and more granular access control. In addition to the technical build this required me to develop processes and standards around data which Jagex had never really considered at that time. This allowed my team to divide and conquer. Finding "Data Owners" for shares, working through a process with them to identify access needs and transposing them into AD managed ACLs which would be extensible and auditable before migrating the data. These processes and standards formed the basis for many refactors, migrations and new services in and beyond my own team and are still the foundation of current policy and process.
 
-It started with projects quite familiar to me but at a very different scale and complexity. They had built an "air gapped" development network and realised it wasn't fit for purpose in 2014 so early projects were about enabling developers to develop. There had never been a true "air gap", holes had been poked to allow people to work so we initially set out to replace holes with fit for purpose services.
-
-The first major project I led was the replacement of a Linux based file server with a larger, more resilient Windows based solution. As well as more space it offered better client compatibility and more granular access control. In addition to the technical build this required me to develop processes and standards around data which Jagex had never really considered at that time. This allowed my team to divide and conquer. Finding "Data Owners" for shares, working through a process with them to identify access needs and transposing them into AD managed ACLs which would be extensible and auditable before migrating the data. These processes and standards formed the basis for many refactors, migrations and new services both in my team, the wider IT team and the business as a whole.
-
-Providing a service to our users rather than just a piece of hardware or software technology is how consider everything I've been involved in delivering while at Jagex, which includes: 
+While at Jagex I've been involved in delivering many new services and improvements or replacements of existing. Some notable examples: 
 - ADFS to Azure AD migration and service extension.
 - On Premise to Exchange Hybrid migration.
 - Hipchat to Slack migration - Lead
@@ -56,7 +53,7 @@ Providing a service to our users rather than just a piece of hardware or softwar
 - Disaster Recovery Datacenter
 - Backup System Replacement - Lead ( Ongoing )
 
-I believe it's thanks to knowledge of the technologies and my approach to organisation and people that I quickly became a trusted pair of hands to 4 IT managers in my time at Jagex. As a result of that I've been involved in the majority of disasters and incidents that have occurred. My duties during these have included technical lead, investigation / forensics. As a result I've also been involved in liaison between internal and external incident response teams, internal and external legal teams as well as law enforcement agencies. 
+I quickly became a trusted pair of hands to 4 IT managers in my time at Jagex. As a result of that I've been involved in the response to the majority of disasters and incidents. My duties during these have included technical lead, investigation / forensics and communication. As a result I've also been involved in liaison between internal and external incident response teams, internal and external legal teams as well as law enforcement agencies. 
 
 Disasters and Incidents include:
 - Exchange Recovery
@@ -64,7 +61,8 @@ Disasters and Incidents include:
 - Insider threat investigations
 - Vulnerability Disclosures
 
-The culture at Jagex has allowed me to get involved in projects which interested me and I wanted to develop in. It was no surprise that security would be one of those. I've always been passionate about not just delivering something but in its whole life cycle, the risks it presents, how they can be mitigated, monitored and alerted on. Actually being asked to focus on that the last few years has allowed me to learn and put that learning straight into practice. What was more of a surprise to me was to find I was interested in how work gets done. Jagex has undergone an "agile transformation" which has in some areas been a paper exercise or source of frustration but it has given me the opportunity to work with some really good agile delivery coaches and project managers. The skills I've learned from them have helped me contribute meaningfully to the evolution of working practices in the IT department and I'm excited about using and growing them. 
+The culture at Jagex has allowed me to stretch beyond what was strictly my role and develop my skills. I've always been passionate about not just delivering something but in its whole life cycle, the risks it presents, how they can be mitigated, monitored and alerted on. Actually being asked to focus on that the last few years has allowed me to learn about security frameworks and compliance standards that can help engineers deliver consistent verifiable implementations and put that learning straight into practice.
+What was more of a surprise to me was to find I was interested in how work gets done. Jagex has undergone an "agile transformation" which has in some areas been a paper exercise or source of frustration but it has given me the opportunity to work with some really good agile delivery coaches and project managers. The skills I've learned from them have helped me contribute meaningfully to the evolution of working practices in the IT department and I'm excited about using and growing those skills  in the future. 
 
 ### IT Technician | Grosvenor Grammar School 2004 - 2014
 
