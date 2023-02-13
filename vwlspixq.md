@@ -91,3 +91,5 @@ In secondary school I began repairing computers and setting up internet and e-ma
 - HNC Software engineering - Belfast Metropolitan College
 - A-Level Computing, Physic and Chemistry - Grosvenor Grammar
 - 13 GCSEs. Including English and Advanced Mathematics - Grosvenor Grammar
+
+Link to current copy: https://github.com/T3th/dhbzmcjn/edit/main/vwlspixq.md
