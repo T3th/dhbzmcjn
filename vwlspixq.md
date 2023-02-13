@@ -1,9 +1,9 @@
 | Contact Details | |
 | --- | -------- |
-| Phone: | 000000000 |
-| E-mail | me@domain.tld |
+| Phone: | 07540221692 |
+| E-mail | pete@thesmeltzers.uk |
 
-# firstname lastname
+# Peter Smeltzer
 Security focused IT engineer who has never been satisfied with delivering only what was requested. I want to work with professionals to achieve a great result, which fully solves the problem every time. I also have a keen interest in all things technological and mechanical, particularly motorcycles, computer games and smart homes.
 
 ### Key Skills
